@@ -1,0 +1,5 @@
+scikit-learn
+sounddevice
+numpy
+pyttsx3
+vosk
